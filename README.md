@@ -6,6 +6,8 @@ This is a simple and user-friendly **To-Do List Application** built using **Reac
 
 Here is how the To-Do List Application looks:
 
+💻 Deploy: [https://todoappinternshala.netlify.app/](https://todoappinternshala.netlify.app/)
+
 ![To-Do List App Preview](public/image.png)
 
 ## ✨ Features
