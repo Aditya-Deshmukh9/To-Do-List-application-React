@@ -1,12 +1,146 @@
-# React + Vite
+## 📋 To-Do List Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and user-friendly **To-Do List Application** built using **React.js** and **Tailwind CSS**. It allows you to **add, edit, mark as complete, delete tasks**, and automatically moves completed tasks to the bottom.
 
-Currently, two official plugins are available:
+## 📸 Application Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Here is how the To-Do List Application looks:
 
-## Expanding the ESLint configuration
+![To-Do List App Preview](public/image.png)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- ✅ **Add New Task**
+- ✅ **Mark Task as Completed**
+- ✅ **Edit Existing Task**
+- ✅ **Delete Task**
+- ✅ **Reorder Completed Tasks to the Bottom**
+- ✅ **Beautiful Circular Checkbox with Pink Background**
+- ✅ **Smooth User Experience with Tailwind CSS**
+
+---
+
+## 📂 Project Setup
+
+Follow the instructions below to run the project on your local machine.
+
+### 💻 Prerequisites
+
+- Node.js (v18 or higher)
+- npm or pnpm
+- Vite.js
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Aditya-Deshmukh9/To-Do-List-application-React
+cd To-Do-List-application-React
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+or
+
+```bash
+pnpm install
+```
+
+### 3. Run the Application
+
+```bash
+npm run dev
+```
+
+### 4. Open in Browser
+
+After running the above command, open your browser and visit:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🎨 UI Preview
+
+- ✅ Circular checkbox with pink background and white checkmark.
+- ✅ Tasks automatically shift completed tasks to the bottom.
+- ✅ Smooth transition and clean UI using Tailwind CSS.
+
+---
+
+## 💾 Project Structure
+
+```
+src
+│
+├── components
+│   ├── Header.jsx
+│   ├── ToDoList.jsx
+│   ├── ToDoItem.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.html
+```
+
+---
+
+## 🔥 Technologies Used
+
+- **React.js** (with hooks)
+- **Tailwind CSS** (for styling)
+- **Vite.js** (for fast build)
+
+---
+
+## 🗑 Delete Task
+
+Simply click the ❌ **Delete** button beside any task to remove it.
+
+---
+
+## ✍ Edit Task
+
+Click the **Edit** button, modify your task, and press **Save**.
+
+---
+
+## ✅ Mark as Completed
+
+Click the **circular checkbox** to mark a task as completed. The task will automatically move to the bottom.
+
+---
+
+## 🤝 Contributing
+
+Contributions are always welcome!  
+If you'd like to add new features, improve the code, or fix any bugs, feel free to fork the repository and submit a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 📬 Contact
+
+For any queries or suggestions, feel free to contact me at:  
+📧 Email: [your-email@gmail.com](mailto:adityadesh937@gmail.com)  
+😊 Portfolio: [aditya_deshmukh](https://adityadeshmukh.online)
+
+💻 GitHub: [AdityaDeshmukh9](https://adityadeshmukh.online/github)
+
+---
+
+🔥 **Happy Coding! 🚀**
